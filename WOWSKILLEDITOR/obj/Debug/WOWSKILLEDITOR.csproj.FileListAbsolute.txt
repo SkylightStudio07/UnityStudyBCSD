@@ -1,0 +1,7 @@
+E:\UnityST\UnityCS\WOWSKILLEDITOR\bin\Debug\WOWSKILLEDITOR.exe.config
+E:\UnityST\UnityCS\WOWSKILLEDITOR\bin\Debug\WOWSKILLEDITOR.exe
+E:\UnityST\UnityCS\WOWSKILLEDITOR\bin\Debug\WOWSKILLEDITOR.pdb
+E:\UnityST\UnityCS\WOWSKILLEDITOR\obj\Debug\WOWSKILLEDITOR.csprojAssemblyReference.cache
+E:\UnityST\UnityCS\WOWSKILLEDITOR\obj\Debug\WOWSKILLEDITOR.csproj.CoreCompileInputs.cache
+E:\UnityST\UnityCS\WOWSKILLEDITOR\obj\Debug\WOWSKILLEDITOR.exe
+E:\UnityST\UnityCS\WOWSKILLEDITOR\obj\Debug\WOWSKILLEDITOR.pdb
