@@ -1,0 +1,7 @@
+E:\UnityST\UnityCS\WOWMAPEDITOR\bin\Debug\WOWMAPEDITOR.exe.config
+E:\UnityST\UnityCS\WOWMAPEDITOR\bin\Debug\WOWMAPEDITOR.exe
+E:\UnityST\UnityCS\WOWMAPEDITOR\bin\Debug\WOWMAPEDITOR.pdb
+E:\UnityST\UnityCS\WOWMAPEDITOR\obj\Debug\WOWMAPEDITOR.csprojAssemblyReference.cache
+E:\UnityST\UnityCS\WOWMAPEDITOR\obj\Debug\WOWMAPEDITOR.csproj.CoreCompileInputs.cache
+E:\UnityST\UnityCS\WOWMAPEDITOR\obj\Debug\WOWMAPEDITOR.exe
+E:\UnityST\UnityCS\WOWMAPEDITOR\obj\Debug\WOWMAPEDITOR.pdb

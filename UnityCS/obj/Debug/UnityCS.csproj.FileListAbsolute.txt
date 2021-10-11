@@ -1,0 +1,7 @@
+E:\UnityST\UnityCS\UnityCS\bin\Debug\UnityCS.exe.config
+E:\UnityST\UnityCS\UnityCS\bin\Debug\UnityCS.exe
+E:\UnityST\UnityCS\UnityCS\bin\Debug\UnityCS.pdb
+E:\UnityST\UnityCS\UnityCS\obj\Debug\UnityCS.csprojAssemblyReference.cache
+E:\UnityST\UnityCS\UnityCS\obj\Debug\UnityCS.csproj.CoreCompileInputs.cache
+E:\UnityST\UnityCS\UnityCS\obj\Debug\UnityCS.exe
+E:\UnityST\UnityCS\UnityCS\obj\Debug\UnityCS.pdb

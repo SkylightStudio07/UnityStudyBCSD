@@ -1,0 +1,7 @@
+E:\UnityST\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe.config
+E:\UnityST\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe
+E:\UnityST\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.pdb
+E:\UnityST\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csprojAssemblyReference.cache
+E:\UnityST\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.CoreCompileInputs.cache
+E:\UnityST\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.exe
+E:\UnityST\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.pdb
