@@ -1,0 +1,7 @@
+E:\UnityST\UnityCS\32Array\bin\Debug\32Array.exe.config
+E:\UnityST\UnityCS\32Array\bin\Debug\32Array.exe
+E:\UnityST\UnityCS\32Array\bin\Debug\32Array.pdb
+E:\UnityST\UnityCS\32Array\obj\Debug\32Array.csprojAssemblyReference.cache
+E:\UnityST\UnityCS\32Array\obj\Debug\32Array.csproj.CoreCompileInputs.cache
+E:\UnityST\UnityCS\32Array\obj\Debug\32Array.exe
+E:\UnityST\UnityCS\32Array\obj\Debug\32Array.pdb
